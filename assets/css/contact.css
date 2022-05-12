@@ -1,0 +1,52 @@
+/*font-family: 'Cherry Swash', cursive;
+font-family: 'Esteban', serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Macondo', cursive;
+font-family: 'Montserrat', sans-serif;*/
+
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+main{
+  width: 600px;
+  background-color: none;
+  margin: 32px auto;
+  padding: 16px;
+  border: none;
+  border-radius: 10px;
+  box-shadow:2px 2px 4px black;
+}
+.input{
+  margin-left: 20px;
+}
+
+#form{
+  text-align: center;
+}
+
+#area{
+  width: 500px;
+  height: 100px;
+  margin: 20px 0;
+}
+
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+  border-radius: 100px;
+}
+
+h3{
+    font-size: 52px;
+    font-family:sans-serif;
+    font-weight: bold;
+}
