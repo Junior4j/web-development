@@ -1,6 +1,6 @@
 a{
     text-decoration: none;
-    color: deepskyblue;
+    color: cornflowerblue;
   }
   
   nav a:hover{
@@ -12,7 +12,7 @@ a{
 }
 
   h1,h2,h3{
-    font-weight: bold;
+   font-family: 'Lato', sans-serif;
 }
 
 .name a{
