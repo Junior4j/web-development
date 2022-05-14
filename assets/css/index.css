@@ -3,7 +3,6 @@ header{
     align-items: center;
     justify-content: space-between;
 }
-
 main{
     margin: auto;
 }
@@ -27,7 +26,7 @@ ul{
 
 #main{
     height: 300px;
-    background-image: url("/assets/images/mac.jpg");
+    background-image: url("/assets/images/btsw\ logo.png");
 }
 
 #photoshop{

@@ -24,17 +24,16 @@ main{
 }
 
 #form{
-  text-align: center;
+  margin: 0 auto;
 }
 
 #area{
   width: 500px;
   height: 100px;
-  margin: 20px 0;
+  margin: 20px 40px;
 }
 
 #sub{
-  margin-top:32px;
   padding: 16px;
   border-radius: 10px;
   color:white;
