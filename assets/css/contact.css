@@ -4,56 +4,55 @@ font-family: 'Lato', sans-serif;
 font-family: 'Macondo', cursive;
 font-family: 'Montserrat', sans-serif;*/
 
-header{
+header {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-main{
+main {
   width: 600px;
   background-color: none;
   margin: 32px auto;
   padding: 16px;
   border: none;
   border-radius: 10px;
-  box-shadow:2px 2px 4px black;
+  box-shadow: 2px 2px 4px black;
 }
-.input{
-  margin-right:20px;
+.input {
+  margin-right: 20px;
 }
 
-#form{
+#form {
   text-align: right;
 }
 
-#area{
+#area {
   width: 500px;
   height: 100px;
   margin: 20px 40px;
 }
 
-#sub{
+#sub {
   padding: 16px;
   border-radius: 10px;
-  color:white;
+  color: white;
   background: blueviolet;
 }
 
-ul{
+ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-img{
-  width: 300px;
+img {
   height: 300px;
   border-radius: 100px;
 }
 
-h3{
-    font-size: 52px;
-    font-family:sans-serif;
-    font-weight: bold;
+h3 {
+  font-size: 52px;
+  font-family: sans-serif;
+  font-weight: bold;
 }

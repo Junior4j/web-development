@@ -3,11 +3,12 @@ header {
   align-items: center;
   justify-content: space-between;
 }
+
 main {
   margin: auto;
 }
 
-ul {
+header ul {
   display: flex;
   justify-content: space-evenly;
   list-style: none;
@@ -16,7 +17,7 @@ ul {
   width: 250px;
 }
 
-#photoshop {
+#photo-shop {
   width: 400px;
   margin: 72px auto 72px auto;
   padding: 16px;
